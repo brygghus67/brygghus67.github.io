@@ -85,12 +85,12 @@ header h2 {
 
 #container {
   min-height: 595px;
-  background: transparent url(../images/logo.png) 50% 0 no-repeat;
+  background: transparent url(../images/logo2.png) 50% 0 no-repeat;
 }
 
 .inner {
   width: 620px;
-  margin: 200px auto;
+  margin: 75px auto;
   text-align: center;
 }
 
